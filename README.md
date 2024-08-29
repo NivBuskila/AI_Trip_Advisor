@@ -1,4 +1,7 @@
 # AI Trip Advisor
+![image](https://github.com/user-attachments/assets/f0abe8d3-8352-4fe7-b0f2-67f5e4d602cd)
+![image](https://github.com/user-attachments/assets/583854fe-3280-4fcf-9d05-f02c9100be70)
+![image](https://github.com/user-attachments/assets/e80b0b53-af2f-4578-b8ac-987a6e2305e2)
 
 AI Trip Advisor is an intelligent application designed to provide personalized travel recommendations based on user preferences and AI algorithms. In addition to recommendations, the app also generates AI-powered images of your potential trip, allowing you to visualize the experience before you embark.
 
